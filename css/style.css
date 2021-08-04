@@ -7,6 +7,7 @@ img {
   border-radius: 4px;
   padding: 5px;
   width: 250px;
+  height: 200px;
 }
 
 .column1 {
@@ -14,4 +15,34 @@ img {
   padding: 5px;
   height: auto;
   float: left;
+  padding: 50px;
+  border: solid black;
+  border-width: 30px;
+  background-color: orange;
+  box-sizing: border-box;
+}
+
+
+.column2 {
+  width: 30%;
+  padding: 5px;
+  height: auto;
+  float: left;
+  padding: 50px;
+  border: solid black;
+  border-width: 30px;
+  background-color:darkgreen;
+  box-sizing: border-box;
+}
+
+.column3 {
+  width: 30%;
+  padding: 5px;
+  height: auto;
+  float: left;
+  padding: 50px;
+  border: solid black;
+  border-width: 30px;
+  background-color:darksalmon;
+  box-sizing: border-box;
 }
