@@ -1,4 +1,4 @@
-# Interior-design App - practice
+# Interior design app - practice
 
 ## Table of Contents
 + [About](#about)
